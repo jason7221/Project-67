@@ -31,12 +31,12 @@ if (Platform.OS === "android") {
   setCustomText({
     style: {
       fontFamily: "Roboto",
-      Color : 'blue',
+      color : 'blue',
       fontWeight : 2,
     },
   });
 }
-
+  
 const App = createBottomTabNavigator(
   {
     [MAIN_SCREEN]: MainScreen,
