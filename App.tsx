@@ -32,7 +32,7 @@ if (Platform.OS === "android") {
     style: {
       fontFamily: "Roboto",
       color : 'blue',
-      fontWeight : 2,
+      fontWeight : 3,
     },
   });
 }
